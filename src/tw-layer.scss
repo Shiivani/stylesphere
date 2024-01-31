@@ -1,0 +1,27 @@
+.scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scroll-themed {
+  scrollbar-color: #d3d3d3 transparent;
+  scrollbar-width: 0.5rem;
+}
+
+.scroll-themed::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+.scroll-themed::-webkit-scrollbar-thumb {
+  background: #d3d3d3;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.scroll-themed::-webkit-scrollbar-thumb:hover {
+  background: #bbb8b8;
+}
