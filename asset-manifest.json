@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/stylesphere/static/css/main.1fa469c0.css",
-    "main.js": "/stylesphere/static/js/main.a54eb295.js",
+    "main.css": "/stylesphere/static/css/main.4088126b.css",
+    "main.js": "/stylesphere/static/js/main.9c8ca49c.js",
     "static/js/787.299608f1.chunk.js": "/stylesphere/static/js/787.299608f1.chunk.js",
     "static/media/menu-img4.png": "/stylesphere/static/media/menu-img4.2cbe92d448b166a183aa.png",
     "static/media/printed-sweatshirts.webp": "/stylesphere/static/media/printed-sweatshirts.87727cba8dac503307dc.webp",
@@ -25,12 +25,12 @@
     "static/media/menu-img1.webp": "/stylesphere/static/media/menu-img1.5b00e680181863f192b2.webp",
     "static/media/style-sphere.png": "/stylesphere/static/media/style-sphere.558510a342055396496b.png",
     "index.html": "/stylesphere/index.html",
-    "main.1fa469c0.css.map": "/stylesphere/static/css/main.1fa469c0.css.map",
-    "main.a54eb295.js.map": "/stylesphere/static/js/main.a54eb295.js.map",
+    "main.4088126b.css.map": "/stylesphere/static/css/main.4088126b.css.map",
+    "main.9c8ca49c.js.map": "/stylesphere/static/js/main.9c8ca49c.js.map",
     "787.299608f1.chunk.js.map": "/stylesphere/static/js/787.299608f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa469c0.css",
-    "static/js/main.a54eb295.js"
+    "static/css/main.4088126b.css",
+    "static/js/main.9c8ca49c.js"
   ]
 }
