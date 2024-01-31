@@ -18,6 +18,9 @@ module.exports = {
           900: "#F57F17",
         },
       },
+      boxShadow: {
+        "footer-sd": "0 -1px 10px rgb(0 0 0 / 10%)",
+      },
     },
   },
   plugins: [],
