@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/stylesphere/static/css/main.1fa469c0.css",
+    "main.js": "/stylesphere/static/js/main.a54eb295.js",
+    "static/js/787.299608f1.chunk.js": "/stylesphere/static/js/787.299608f1.chunk.js",
+    "static/media/menu-img4.png": "/stylesphere/static/media/menu-img4.2cbe92d448b166a183aa.png",
+    "static/media/printed-sweatshirts.webp": "/stylesphere/static/media/printed-sweatshirts.87727cba8dac503307dc.webp",
+    "static/media/menu-img5.webp": "/stylesphere/static/media/menu-img5.b070a99a403319494599.webp",
+    "static/media/stripped-shirts1.webp": "/stylesphere/static/media/stripped-shirts1.3aa43aaa4afe4e62e7dd.webp",
+    "static/media/menu-img3.webp": "/stylesphere/static/media/menu-img3.ea135b2598b3bfc3efaf.webp",
+    "static/media/menu-img8.webp": "/stylesphere/static/media/menu-img8.2ce8957e7385ce5bf1ba.webp",
+    "static/media/menu-img7.webp": "/stylesphere/static/media/menu-img7.162ccc479613a846c011.webp",
+    "static/media/image2.webp": "/stylesphere/static/media/image2.934aa02ceed4cb852292.webp",
+    "static/media/banner-image-part2.webp": "/stylesphere/static/media/banner-image-part2.3e0754cc2a855ef547d4.webp",
+    "static/media/menu-img2.png": "/stylesphere/static/media/menu-img2.4c3a7b690a08ace91315.png",
+    "static/media/banner-image-part1.webp": "/stylesphere/static/media/banner-image-part1.901f3b397dc500b4a053.webp",
+    "static/media/menu-img6.webp": "/stylesphere/static/media/menu-img6.0c18947f8a8948e5e369.webp",
+    "static/media/carousel-image.webp": "/stylesphere/static/media/carousel-image.31e0c9401fe3ad0fcfd7.webp",
+    "static/media/carousel-image1.webp": "/stylesphere/static/media/carousel-image1.e06f111f3d446afedaec.webp",
+    "static/media/Image1.webp": "/stylesphere/static/media/Image1.32596ea1b2e3de7fed6b.webp",
+    "static/media/menu-img9.webp": "/stylesphere/static/media/menu-img9.3b9b51ed1ed0c888928d.webp",
+    "static/media/wedding-rings.png": "/stylesphere/static/media/wedding-rings.652d5108326aa9feb12e.png",
+    "static/media/color-splash.webp": "/stylesphere/static/media/color-splash.e2a20dfc16b6ee026662.webp",
+    "static/media/carousel-image2.webp": "/stylesphere/static/media/carousel-image2.0c2a527a46d11b8917d8.webp",
+    "static/media/menu-img1.webp": "/stylesphere/static/media/menu-img1.5b00e680181863f192b2.webp",
+    "static/media/style-sphere.png": "/stylesphere/static/media/style-sphere.558510a342055396496b.png",
+    "index.html": "/stylesphere/index.html",
+    "main.1fa469c0.css.map": "/stylesphere/static/css/main.1fa469c0.css.map",
+    "main.a54eb295.js.map": "/stylesphere/static/js/main.a54eb295.js.map",
+    "787.299608f1.chunk.js.map": "/stylesphere/static/js/787.299608f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa469c0.css",
+    "static/js/main.a54eb295.js"
+  ]
+}
